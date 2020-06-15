@@ -1,0 +1,10 @@
+C:\Users\sajjad\AppData\Local\Temporary Projects\Snake\bin\Debug\Snake.exe
+C:\Users\sajjad\AppData\Local\Temporary Projects\Snake\bin\Debug\Snake.pdb
+C:\Users\sajjad\AppData\Local\Temporary Projects\Snake\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sajjad\AppData\Local\Temporary Projects\Snake\obj\Debug\Snake.exe
+C:\Users\sajjad\AppData\Local\Temporary Projects\Snake\obj\Debug\Snake.pdb
+E:\Projects\C# Projects\Snake\Snake\obj\Debug\Snake.exe
+E:\Projects\C# Projects\Snake\Snake\obj\Debug\Snake.pdb
+E:\Projects\C# Projects\Snake\Snake\bin\Debug\Snake.exe
+E:\Projects\C# Projects\Snake\Snake\bin\Debug\Snake.pdb
+E:\Projects\C# Projects\Snake\Snake\obj\Debug\ResolveAssemblyReference.cache
